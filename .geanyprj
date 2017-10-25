@@ -30,7 +30,11 @@ long_line_behaviour=1
 long_line_column=80
 
 [files]
-current_page=-1
+current_page=0
+FILE_NAME_0=4377;HTML;0;EUTF-8;0;1;0;%2Fhome%2Fk%2Fmy_repos%2Fnew_hompage%2Fnew_homepage%2Ftheme%2Ftemplates%2Fbase.html;0;2
+FILE_NAME_1=0;HTML;0;EUTF-8;0;1;0;%2Fhome%2Fk%2Fmy_repos%2Fnew_hompage%2Fnew_homepage%2Ftheme%2Ftemplates%2Foriginalbase.html;0;2
+FILE_NAME_2=0;HTML;0;EUTF-8;0;1;0;%2Fhome%2Fk%2Fmy_repos%2Fnew_hompage%2Fnew_homepage%2Ftheme%2Ftemplates%2Fpages%2Fmenus%2Fdropdown.html;0;2
+FILE_NAME_3=1840;Python;0;EUTF-8;0;1;0;%2Fhome%2Fk%2Fmy_repos%2Fnew_hompage%2Fnew_homepage%2Fnew_homepage%2Fsettings.py;0;2
 
 [VTE]
-last_dir=/home/k/my_repos/new_hompage/new_homepage
+last_dir=/home/k/.gocode
